@@ -2,7 +2,7 @@ DAILY ACT
 LEARNING
 AJIO
 BACKEND
-WORK VS. BUSINESS
+JOB VS. BUSINESS
 ACCOUNT
 APPLY
 UBUNTU INSTALL SOFTWARE
@@ -11,9 +11,10 @@ LUI VS. FRANCES (May 6, 2020)
 
 DAILY ACT
 ------------------------------------------------------------------------------------------
-1.pray / exercise / water / send 2 resume  
+1.pray / exercise / water / send 2 resume
 2.job / skills - basic, calculation
                - react native: cruds - checkbox, radiobutton, dropdown, textarea, images, datetime, notifications, error success messages
+                 user/subuser, date/hours ago, calculation
                - project / portfolio
                - upload online
                - sdlc - analysis, design, implementation, testing(local), deployment(server), maintenance
@@ -54,14 +55,18 @@ cruds - checkbox, radiobutton, dropdown, textarea, images, datetime, notificatio
       - calculation
       - sdlc - analysis, design, implementation, testing(local), deployment(server), maintenance
 
-WORK VS. BUSINESS
+JOB VS. BUSINESS
 ------------------------------------------------------------------------------------------
-work: - salary 1k
+job: - salary 1k
       - insurance (mao gihapon gamay ra kaau kag madawat kada buwan, corrupon rapud)
       - hindi ikaw may hawak ng oras mo
       - traffic
       - sayo kaau mo adto sa trabahoan unya late kaau na mo uli
       - stress
+
+      note: - programming or call center
+            - ayaw pili og trabaho para dili ka ma istanby, kong maka work naka didto naka mag hinay hinay ngita lain na work
+              kong mahimo, paningkamuti na naakay work bisan ginagmay.
 
 business: - salary 1k (more than)
       - insurance (pwede raka mag volunteer)
@@ -100,7 +105,7 @@ APPLY
 Programming:
 Beautitag - https://mynimo.com/jobs/view/359135/cebu/fullstack-software-engineer-nodejs/beautitag-limited
 Vauldex Technologies Inc. - https://mynimo.com/jobs/view/356750/cebu/software-developer/vauldex-technologies-inc
-WebriQ - https://www.mynimo.com/jobs/view/359612/cebu/junior-web-developers/webriq  
+WebriQ - https://www.mynimo.com/jobs/view/359612/cebu/junior-web-developers/webriq
 Author Solutions Philippines Inc. - https://www.mynimo.com/jobs/view/359855/cebu/javascript-developer/author-solutions-philippines-inc
 nabepero Philippines Inc. - https://www.mynimo.com/jobs/view/357991/cebu/website-reviewer/nabepero-philippines-inc
 House of I.T - https://mynimo.com/jobs/view/357124/cebu/wordpress-developer/house-of-i-t
@@ -108,7 +113,7 @@ Supporting Enterprises Inc. - https://mynimo.com/jobs/view/359314/cebu/technical
 Jea Steel Industries, Inc -https://www.mynimo.com/jobs/view/359695/cebu/i-t-staff/jea-steel-industries-inc
 CK Builders Construction & Dev't Corporation - https://www.mynimo.com/jobs/view/357636/cebu/batching-plant-operator/ck-builders-construction-dev-t-corporation
 
-Chat Support: 
+Chat Support:
 Continuum Global Solutions - https://mynimo.com/jobs/view/360494/cebu/apply-now-as-a-chat-support-representative-and-take-our-assessments-online/integrated-call-center-solutions-philippines-inc
 QIMA - https://mynimo.com/jobs/view/356963/cebu/customer-service-representative-chat-support/qima
 Process Ninjas - https://www.mynimo.com/jobs/view/360213/cebu/non-voice-chat-support-and-content-creation-18k-signing-bonus/process-ninjas
@@ -128,6 +133,9 @@ mao nani akong design na balay - https://www.youtube.com/watch?v=gg17npoP0uk
 https://www.youtube.com/watch?v=onjs5xnN7vo
 
 
-
-
-24
+afterships form
+---------------
+- order id or number
+- date
+- status
+- afterships tracking number
