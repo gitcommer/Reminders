@@ -14,12 +14,14 @@ DAILY ACT
 1.pray / exercise / water / send 2 resume
 2.job / skills - basic, calculation
                - react native: cruds - checkbox, radiobutton, dropdown, textarea, images, datetime, notifications, error success messages
-                 user/subuser, date/hours ago, calculation
+               - user/subuser, date/hours ago, calculation
+               - share data - share button, find person you wanted to share, ok button, post data to the person page
                - project / portfolio
                - upload online
                - sdlc - analysis, design, implementation, testing(local), deployment(server), maintenance
 
-                note: - ayaw balhin kong dili ni mahuman, bisan maabot pakag osa ka tuig ani
+                note: - THE POWER OF FOCUS ONLY IN ONE - ayaw balhin kong dili ka makasabot or makamao, bisan DELETE rana sa CRUD, bisan abtan pakag pila ka adlaw ana
+                      - EVALUATE - nagawa mo ba plano mo this day?
                       - very slow but (surely understand), fast but (don't understand anything)
                       - very focus is the key, morning, afternoon, evening, review what you have learned today.
                       - it needs a serious preparation of a job requirement before you apply, para dili ka mag nga-nga sa work
@@ -68,6 +70,8 @@ job: - salary 1k
             - ayaw pili og trabaho para dili ka ma istanby, kong maka work naka didto naka mag hinay hinay ngita lain na work
               kong mahimo, paningkamuti na naakay work bisan ginagmay.
 
+            - ayaw ka stress, isipon mo na lang na parang naglalaro ka dyan, wala akong paki
+
 business: - salary 1k (more than)
       - insurance (pwede raka mag volunteer)
       - pwede ka matulog, mag laag laag (freedom)
@@ -97,6 +101,8 @@ ACCOUNT
 ------------------------------------------------------------------------------------------
 skype - 09321142537/qwertycaberty123
 teletech - rumttec/5122020ttec
+aftership - ucrumcinco/I.T.associate, website:tae.com.cb, shortname:ucrumcinco5d
+            api key: 89a3110d-2e39-4908-bcc4-f05a1685efb1
 
 APPLY
 ------------------------------------------------------------------------------------------
@@ -139,3 +145,7 @@ afterships form
 - date
 - status
 - afterships tracking number
+
+package-lock.json - it shows the details of the node package you install, like version, website etc.
+undefined - meaning wla siya kaila ana, or wala siya ka kita ana
+          - install other package so that browser can understand
