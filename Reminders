@@ -2,20 +2,24 @@ DAILY ACT
 LEARNING
 AJIO
 BACKEND
+NODEJS PACKAGE USE
 JOB VS. BUSINESS
 ACCOUNT
 APPLY
 UBUNTU INSTALL SOFTWARE
 HOUSE
 LUI VS. FRANCES (May 6, 2020)
+HOUSE
+JOB INTERVIEW
 
 DAILY ACT
 ------------------------------------------------------------------------------------------
 1.pray / exercise / water / send 2 resume
 2.job / skills - basics
-               - cruds: checkbox, radiobutton, dropdown, textarea, images, datetime, error success messages, notifications
+               - cruds: checkbox, radiobutton, dropdown, textarea, images, datetime, error success messages, notifications, email
+                        noteficatiions - pwede ka mag use sa functionality sa error messages
                - calculation
-               - login/Register: user, subuser
+               - login/Register: user, subuser - pwede ka maghimo og lain lain na page like login page for admin another login page for normal user
                - date/hours ago
                - share data - share button, find person you wanted to share, ok button, post data to the person page
                - project / portfolio
@@ -32,6 +36,14 @@ DAILY ACT
                       - it needs a serious preparation of a job requirement before you apply, para dili ka mag nga-nga sa work
                         kay basin mo resign rasad dayon ka kay dili ka kamao or walay dyud kay kalibutan sa work.
                         at least solid basics knowledge.
+
+                      - MAS MAAYO OSA LANG KA TEACHER IMONG I FOCUS KAY LAIN LAIN SILA OG PAMAAGI
+                      - study by module
+                      - test to yourself by module
+                      - if ERROR don't proceed, solve it
+                      - save the whole notes and codes by module
+                      NOTE : before ka mo continue KINAHANGLAN NAKA SABOT DYUD KA SA FLOW
+                              bahala madugay ka dira basta kasabot og para dili naka magbalik balik
 3.business
 4.scripture
 
@@ -94,9 +106,13 @@ job: - salary 1k
             - ayaw ka stress, isipon mo na lang na parang naglalaro ka dyan, wala akong paki
 
 business: - salary 1k (more than)
-      - insurance (pwede raka mag volunteer)
-      - pwede ka matulog, mag laag laag (freedom)
-      - stress
+          - insurance (pwede raka mag volunteer)
+          - pwede ka matulog, mag laag laag (freedom)
+          - stress
+
+          note: - ngano naka huna huna ka ana na business, kay ganahan nimo, the only thing na magdugay nimo to start kay maolaw or mahadlok ka nila (TELL YOURSELF WALA AKONG PAKI ALAM SA INYO)
+                - THINK OF MANI HOW HE START WHEN YOU ARE LITTLE UNTIL HE DIE
+                - THE BEST WAY TO START YOUR BUSINESS IS TO START BY YOU (tanan set-up, work needed, marketing etc.), after nanang mga kaoban
 
 BUSINESS
 ------------------------------------------------------------------------------------------
@@ -181,3 +197,76 @@ undefined - meaning wla siya kaila ana, or wala siya ka kita ana
 - connect
 - connect to your application
 - uri: mongodb+srv://rom:<password>@practicemongodbcluster-inkfk.mongodb.net/test?retryWrites=true&w=majority
+
+HOUSE
+--------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=i5Wl4hT9FQQ
+
+JOB INTERVIEW (base in your resume and work experienced)
+--------------------------------------------------------------------------------
+What is Multitasking?
+Tell Me About Yourself?
+What is strength?
+What is weakness?
+Why do choose to work in the call center than in the web development?
+What is your mode of transportation?
+Do you have plan to pursue your career in the web development?
+What is customer service?
+What is good customer service?
+
+********** Tell Me About Yourself?
+My name is Hyrum Cinco and I’m 32 years old, I've studed BS in Information Technology at the University in Cebu and graduated in the year 2019 of March.
+Also I'm focusing skills in the field of web development and communication also I have some experienced of this job.
+It amaze me how the technology works, in businesses, schools, government and to the world
+
+********** Why do choose to work in the call center than in the web development?
+Yes, ahm it's like finding an opportunity and not waiting for an opportunity, because I need a job, I need money money to sustain everything.
+If I don't get a job in web-development I have other option in communication.
+
+********** What is your mode of transportation?
+I ride a jeep two times from our place to IT Park (i can manage myself try not to get late)
+
+********** Do you have plan to pursue your career in the web development?
+Yes i do maybe someday, i don’t know maybe after a year, but for now i need to grab the opportunity of what’s the available job
+
+********** What is customer service?
+Is the assistance provided by the company to their customer who buy their product to uses their services
+
+********** What is good customer service?
+Good customer service means helping customers efficiently, in a friendly manner and to do your best to ensure they are satisfied.
+
+********** What is strength?
+My strength is I always find ways to solve a problem or to learn things.
+
+********** What is weakness?
+My weakness is the opposite of my strength, It’s like I can’t say yes to the things that I do not know, but I will find ways to have knowledge of those things.
+
+********** What is Multitasking?
+dealing with more than one task at the same time
+
+********** ArtComp
+ArtComp company sells Microsoft Applications Product Keys, when the users use the product keys and gets an error, we provide technical support to fix those bugs.
+
+********** Proweaver
+Proweaver is a web development compnay and I work there as wordpress forms developer like in a backend side of the website.
+
+********** Juantronics
+Juantronics is a startup company that sells  IOT divices and I was part of the team in building there website, I design web pages and convert it to html and css and upload it to woocommerce cms
+
+********** IslandsAccommodations
+IslandsAccommodations is a travel agency company and I work there as a travel consultant where we provide bookings in hotels and resorts within the philippines.
+
+********** Chicken Charlie
+Chicken Charlie is a fried chicken restaurant and I work there as a service crew, I do cooking, utensils washing, cleaning, stocks inventory and other.
+
+********** Mission
+I serve mission in The Church of Jesus Christ in latter-day Saints for two years in mindanao. Our unique in about the restored gospel of Jesus Christ.
+
+********** Barracks Internet Cafe
+I work in the Internet Cafe as Attendant where I do customer service, encoding, printing, downloading and other stuff
+
+NODEJS PACKAGE USE
+--------------------------------------------------------------------------------
+express shopping-cart --hbs                                                     //this will create automatically project folder packages.json, app.js, public, routes, views etc.
+npm install --save express-handlebars                                           //this will install more handlebars features than the built in one
+npm install --save mongoose                                                     //database
