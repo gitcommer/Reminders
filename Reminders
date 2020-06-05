@@ -21,10 +21,17 @@ DAILY ACT
                - calculation
                - login/Register: user, subuser - pwede ka maghimo og lain lain na page like login page for admin another login page for normal user
                - date/hours ago
+               - from, to date, display report or data
                - share data - share button, find person you wanted to share, ok button, post data to the person page
                - project / portfolio
                - upload online
                - sdlc - analysis, design, implementation, testing(local), deployment(server), maintenance
+
+               - shopping cart - select item, increment number of orders
+                               - link to product order, update, remove, total 
+                               - check-out or payment, paypal etc. success message
+                               - notify customer to their orders
+                               - track orders
 
                 note: - KINAHANGLAN NAAKAY MAHUMAN OSA OG MASABTAN DYUD BISAN DELETE RANA
                       - TANAN NIMO MAKITA SA SYSTEM video, loading etc.
